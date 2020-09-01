@@ -1,2 +1,1 @@
-# learning_python
-A simple cause for learning python
+# A simple cause for learning python
