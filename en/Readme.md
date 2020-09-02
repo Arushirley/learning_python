@@ -1,4 +1,5 @@
-# Chinese
+# English
 
 ## Docs:
-[Chinese](https://docs.python.org/zh-cn/3/)
+[English](https://docs.python.org/3/)
+
