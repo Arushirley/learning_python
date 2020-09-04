@@ -2457,7 +2457,6 @@ x = json.load(f)
 
 与  [JSON](https://docs.python.org/zh-cn/3/tutorial/inputoutput.html#tut-json)  不同，_pickle_  是一种允许对任意复杂 Python 对象进行序列化的协议。因此，它为 Python 所特有，不能用于与其他语言编写的应用程序通信。默认情况下它也是不安全的：如果数据是由熟练的攻击者精心设计的，则反序列化来自不受信任来源的 pickle 数据可以执行任意代码。
 
-
 # 8. 错误和异常[¶](https://docs.python.org/zh-cn/3/tutorial/errors.html#errors-and-exceptions "永久链接至标题")
 
 到目前为止，我们还没有提到错误消息，但是如果你已经尝试过那些例子，你可能已经看过了一些错误消息。 目前（至少）有两种可区分的错误：_语法错误_  和  _异常_。
